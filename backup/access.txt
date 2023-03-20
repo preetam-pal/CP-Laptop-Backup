@@ -1,0 +1,723 @@
+Giantmedia Vendor admin local access 
+user: logomats
+password: admin123
+-------------------------------------------
+
+Giantmedia Test admin
+https://www.giantmediaonline.com/giantmedianew/index.php/104gadmin/
+
+user: admin	
+pass: admin@104#
+
+
+https://magento2.signsigma.com/212034bbm2
+user: bhavink
+pass: kapadia@007
+
+https://testgm.signsigma.com/
+
+-------------------------------------------
+Giantmedia live admin
+
+https://www.giantmediaonline.com/index.php/104gadmin/
+User: preetam	
+Pass: Preetam@giant2017
+-------------------------------------------
+
+Bannerbuzz Vendor admin local access 
+user: Atlanta Vendor
+password: Atlanta123
+
+-------------------------------------------
+
+Bannerbuzz local admin
+https://bbm2.cptestserver.com/admin/
+http://127.0.0.1/bannerbuzzmagento2/admin/
+
+user: preetam.p
+pass: Preetam@12#
+
+
+-------------------------------------------
+
+
+Bannerbuzz test admin
+https://testapi.bannerbuzz.com/212034bbm2/admin
+
+user: preetam.p
+pass: Preetam@2017
+
+-------------------------------------------
+
+Bannerbuzz Live admin
+https://api.bannerbuzz.com/212034bbm2/admin/index/index
+https://api.bannerbuzz.com/276162BBAdmin56GkfEJAbFR3W/
+
+User: preetam.p
+pass: preetam12345
+
+-------------------------------------------
+
+Bannerbuzz blog live admin
+https://www.bannerbuzz.com/blog/wp-admin/
+
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+
+user: admin
+pass: Admin12#
+
+
+user: admin
+pass: Admin12#
+
+Bannerbuzz blog local admin
+
+http://127.0.0.1/blog.bannerbuzz.com/wp-admin/
+
+User: admin
+pass: Bannerbuzzus@123
+
+-------------------------------------------
+
+bannerbuzz.com.au blog Live
+https://www.bannerbuzz.com.au/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: admin
+pass: Bannerbuzzau@123
+
+-------------------------------------------
+
+Bestof signs blog Live
+https://www.bestofsigns.com/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: GoldenCompass
+pass: Bestofsigns12#
+
+-------------------------------------------
+
+bannerbuzz.co.uk blog Live
+https://www.bannerbuzz.co.uk/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: admin
+pass: Bannerbuzzuk@123
+
+-------------------------------------------
+
+bannerbuzz.co.nz blog Live
+https://www.bannerbuzz.co.nz/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: admin
+pass: Bannerbuzznz@123
+
+-------------------------------------------
+
+bannerbuzz.ca blog Live
+https://www.bannerbuzz.ca/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: admin
+pass: Bannerbuzzca@123
+
+-------------------------------------------
+
+Coversandall m2 admin 
+http://127.0.0.1/coversandallm2/admin
+
+user: preetam
+pass: preetam@123
+
+-------------------------------------------
+
+Best of signs Blog local admin
+
+http://127.0.0.1/bestofsigns-blog/wp-admin/
+Username : GoldenCompass
+password : Bestofsigns12#
+
+-------------------------------------------
+
+https://commercepundittech.greythr.com
+user: 047
+pass: Preetam@123
+
+-------------------------------------------
+
+https://magento.com/
+
+Email: preetam@commercepundit.com	
+Password: Magento@two1
+
+
+https://magento.com/tech-resources/download
+
+
+Public Key: 7af728bbb26092eef8516b992ce4fa4f Copy
+Private Key: 106b0b765b40fad99699733f53bdd621 Copy 
+
+
+Admin URL: http://127.0.0.1/mdemo/magento/admin
+User: preetam	
+Pass: preetam123
+
+
+-------------------------------------------
+hubstaff
+
+Full name: preetam pal
+Email: preetam@commercepundit.com
+pass: Preetam@123
+
+-------------------------------------------
+
+Office Internet
+User: preetam
+Pass: preetam123
+
+-------------------------------------------
+teamviewer
+
+User: 1 592 686 450
+pass: fw2v62
+
+-------------------------------------------
+
+VPN access 
+VPN Name: Preetam
+IP Address: 172.167.167.9
+Username: preetam
+pass: 	preetam123
+
+-------------------------------------------
+
+jira 
+
+http://192.168.1.110:8080/browse/COV-4362
+user: preetam
+Pass: preetam123
+
+
+https://banner-buzz.atlassian.net/browse/BB-119
+
+
+-------------------------------------------
+
+Git
+
+http://192.168.2.114/users/sign_in
+preetam_des
+Preetam@123
+
+-------------------------------------------
+
+Circleone BLog
+
+http://127.0.0.1/circleone_blog/admin
+user: admin
+pass: mk2EUD1S3wC4e%!YSF
+
+-------------------------------------------
+
+Confluence
+
+https://wiki.commercepundit.com/welcome.action
+
+User: preetam
+Email ID : preetam@commercepundit.com
+pass: Preetam@12#
+
+-------------------------------------------
+
+
+GTPL 
+
+Account no. BB0006444379
+User ID: BB0006444378
+User ID, User Name : preet_am
+pass: 9574691825
+
+Wifi 
+name: preetam 
+pass: 123456789
+
+
+gtpl customer care
+9727633633
+
+-------------------------------------------
+
+Gmail
+
+UserID preetamsingh720@gmail.com
+pass: MyGmail123
+
+user- riyapal122013@gmail.com
+pass. riya122013
+
+
+User id preetam@commercepundit.com
+pass. Preetam@12#*
+
+-------------------------------------------
+
+https://commercepundittech.greythr.com/
+
+User 047
+pass Preetam@123
+
+-------------------------------------------
+
+
+
+AWS Code details
+
+https://us-east-1.signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIS6BZH6T2B6IUAKQ&X-Amz-Date=2021-11-08T08%3A31%3A40.980Z&X-Amz-Signature=b9c3e6de2cc3cecd87ff45d1c7d4687cd0bb5ae187466f5977f7cf40e2c5f079&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fcodesuite&code_challenge=SkS-v7DMa9T9Q2KWaX3cxP8DydudUvyzQNNiFh-79jg&code_challenge_method=SHA-256&pull-requests-meta=eyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjEwLCJpIjowfQ&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fcodesuite%2Fcodecommit%2Frepositories%2Fbannerbuzz-nextjs%2Fpull-requests%3Fpull-requests-meta%3DeyJmIjp7InRleHQiOiIifSwicyI6e30sIm4iOjEwLCJpIjowfQ%26region%3Dus-east-1%26state%3DhashArgs%2523%26status%3DOPEN%26isauthcode%3Dtrue&region=us-east-1&response_type=code&state=hashArgs%23&status=OPEN
+
+Account ID: rax-5a582d72819b416d940a3e66afe5f4f1
+User: preetam.pal
+Pass: Banner@12345
+
+
+AWS Code Commit Details
+ID: preetam.pal-at-481987170210
+pass: aaPEsEGKF6s/6DTNTuQXlH1RjqAcG45WOQvi43WMHNA=
+
+
+
+-------------------------------------------
+
+
+BLogs clones
+
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/blog.bannerbuzz.com
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/blog.bestofsigns.com
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/blog.bannerbuzz.co.nz
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/blog.bannerbuzz.co.uk
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/blog.bannerbuzz.ca
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/blog.bannerbuzz.com.au
+
+-------------------------------------------
+
+Office Internet
+http://192.168.1.1:1000/keepalive?000b0b030009097c
+
+User: preetam
+Pass: preetam123
+
+
+https://id.atlassian.com/login
+
+-------------------------------------------
+
+Browser stack
+
+Login: azad@commercepundit.com
+Pwd: Azad12#
+
+sername: bs1@commercepundit.com
+Password: Pundit12#
+
+
+-------------------------------------------
+timer clock
+
+https://prod.sendtric.com/
+user
+commerce.pundit82@gmail.com
+
+pass
+pundit123
+
+-------------------------------------------
+
+PF Account
+
+User ID :  preetamsingh720@gmail.com
+
+Pass: 8530250597P@,   Preetam@123
+
+UNA: 100280042019
+
+
+PF Account : GJ/AHD/57391/00082
+
+
+Pancard : BPZPP5098C
+
+https://passbook.epfindia.gov.in/MemberPassBook/LoginServlet
+
+
+-------------------------------------------
+
+Outlook
+
+User: preetam@commercepundit.com
+pass: Office@12#*
+
+-------------------------------------------
+
+https://gitlab.com/users/sign_in
+
+gitlab
+user: preetam@commercepundit.com
+pass: Preetam@123, gitlab@123
+
+-------------------------------------------
+New Jira Link
+
+https://banner-buzz.atlassian.net/jira/dashboards/10012
+
+
+https://id.atlassian.com/login
+
+-------------------------------------------
+
+work composer
+
+ID: preetam@commercepundit.com	
+pass: preetam123
+
+
+
+git remote set-url origin https://gitlab.com/ketan3193/bannerbuzz-nextjs.git
+
+
+
+
+
+8/4/22
+
+--------------------------------------------
+
+
+
+Giantmedia Vendor admin local access 
+user: logomats
+password: admin123
+-------------------------------------------
+
+Giantmedia Test admin
+https://www.giantmediaonline.com/giantmedianew/index.php/104gadmin/
+git
+user: admin	
+pass: admin@104#
+
+
+https://magento2.signsigma.com/212034bbm2
+user: bhavink
+pass: kapadia@007
+
+https://testgm.signsigma.com/
+
+-------------------------------------------
+Giantmedia live admin
+
+https://www.giantmediaonline.com/index.php/104gadmin/
+User: preetam	
+Pass: Preetam@giant2017
+-------------------------------------------
+
+Bannerbuzz Vendor admin local access 
+user: Atlanta Vendor
+password: Atlanta123
+
+-------------------------------------------
+
+Bannerbuzz local admin
+https://bbm2.cptestserver.com/admin/
+http://127.0.0.1/bannerbuzzmagento2/admin/
+
+user: preetam.p
+pass: Preetam@12#
+
+
+-------------------------------------------
+
+
+Bannerbuzz test admin
+https://testapi.bannerbuzz.com/212034bbm2/admin
+
+user: preetam.p
+pass: Preetam@2017
+
+-------------------------------------------
+
+Bannerbuzz Live admin
+https://api.bannerbuzz.com/212034bbm2/admin/index/index
+
+User: preetam.p
+pass: preetam12345
+
+-------------------------------------------
+
+Bannerbuzz blog live admin
+https://www.bannerbuzz.com/blog/wp-admin/
+
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+
+user: admin
+pass: Admin12#
+
+
+user: admin
+pass: Admin12#
+
+Bannerbuzz blog local admin
+
+http://127.0.0.1/blog.bannerbuzz.com/wp-admin/
+
+User: admin
+pass: Bannerbuzzus@123
+
+-------------------------------------------
+
+bannerbuzz.com.au blog Live
+https://www.bannerbuzz.com.au/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: admin
+pass: Bannerbuzzau@123
+
+-------------------------------------------
+
+Bestof signs blog Live
+https://www.bestofsigns.com/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: GoldenCompass
+pass: Bestofsigns12#
+
+-------------------------------------------
+
+bannerbuzz.co.uk blog Live
+https://www.bannerbuzz.co.uk/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: admin
+pass: Bannerbuzzuk@123
+
+-------------------------------------------
+
+bannerbuzz.co.nz blog Live
+https://www.bannerbuzz.co.nz/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: admin
+pass: Bannerbuzznz@123
+
+-------------------------------------------
+
+bannerbuzz.ca blog Live
+https://www.bannerbuzz.ca/blog/wp-admin/
+user: wpadmin
+pass: k6tQ6EJxRE9qwn8
+user: admin
+pass: Bannerbuzzca@123
+
+-------------------------------------------
+
+Coversandall m2 admin 
+http://127.0.0.1/coversandallm2/admin
+
+user: preetam
+pass: preetam@123
+
+-------------------------------------------
+
+Best of signs Blog local admin
+
+http://127.0.0.1/bestofsigns-blog/wp-admin/
+Username : GoldenCompass
+password : Bestofsigns12#
+
+-------------------------------------------
+
+https://commercepundittech.greythr.com
+user: 047
+pass: Preetam@123
+
+-------------------------------------------
+
+https://magento.com/
+
+Public Key: 7af728bbb26092eef8516b992ce4fa4f Copy
+Private Key: 106b0b765b40fad99699733f53bdd621 Copy 
+
+
+Admin URL: http://127.0.0.1/mdemo/magento/admin
+User: preetam	
+Pass: preetam123
+
+
+-------------------------------------------
+hubstaff
+
+Full name: preetam pal
+Email: preetam@commercepundit.com
+pass: Preetam@123
+
+-------------------------------------------
+
+Office Internet
+User: preetam
+Pass: preetam123
+
+-------------------------------------------
+teamviewer
+
+User: 1 592 686 450
+pass: fw2v62
+
+-------------------------------------------
+
+VPN access 
+VPN Name: Preetam
+IP Address: 172.167.167.9
+Username: preetam
+pass: preetam123
+
+
+user: preetam.pal
+pass: Preetam@12#
+
+
+-------------------------------------------
+
+jira 
+
+http://192.168.1.110:8080/browse/COV-4362
+user: preetam
+Pass: preetam123
+
+-------------------------------------------
+
+Git
+
+http://192.168.2.114/users/sign_in
+preetam_des
+preetam@123
+
+-------------------------------------------
+
+Office WIFI 
+user: Commerce-pundit
+pass: 123@Micr0
+
+
+
+-------------------------------------------
+
+Confluence
+
+https://wiki.commercepundit.com/welcome.action
+
+User: preetam
+Email ID : preetam@commercepundit.com
+pass: Preetam@12#
+
+-------------------------------------------
+
+https://commercepundittech.greythr.com/
+
+User 047
+pass Preetam@12#
+
+-------------------------------------------
+
+Litmus detail
+ID: services@commercepundit.com
+Pass: Pundit12#
+
+-------------------------------------------
+
+
+GTPL 
+
+Account no. BB0006444379
+User ID: BB0006444378
+User ID, User Name : preet_am
+pass: 9574691825
+
+Email: preetamsingh720@gmail.com
+Pass: Preetam@123
+
+
+
+Wifi 
+name: preetam 
+pass: 123456789
+
+
+gtpl customer care
+9727633633
+
+-------------------------------------------
+
+Gmail
+
+UserID preetamsingh720@gmail.com
+pass: MyGmail123
+
+user- riyapal122013@gmail.com
+pass. riya122013
+
+-------------------------------------------
+
+
+IIFL 
+customer ID: 738173
+pass: Preetam@12
+
+
+-------------------------------------------
+
+PF Detail
+
+User ID :  preetamsingh720@gmail.com
+
+Pass: 8530250597P@,  Preetam@123
+
+UNA: 100280042019
+
+PF Account : GJ/AHD/57391/00082
+
+Pancard : BPZPP5098C
+
+https://passbook.epfindia.gov.in/MemberPassBook/LoginServlet
+
+--------------------------------------------------------------------------------
+
+
+Linkdin
+
+Id: preetamsingh720@gmail.com
+Pass: Preetam@123
+
+--------------------------------------------------------------------------------
+
+
+https://github.com/codespaces
+
+Email preetamsingh720@gmail.com
+user preetam-pal
+pass: Ppal@123, PPal@123, ppal@123
+
+
+--------------------------------------------------------------------------------
+
+
+Skype
+
+Id: preetamsingh720@gmail.com
+pass: MySkype123
+
+--------------------------------------------------------------------------------
+
+
+
+
